@@ -16,7 +16,6 @@ Social media links (LinkedIn, GitHub, Instagram)
  Technologies Used
 - HTML5
 - CSS3
-- JavaScript (basic)
 - Google Fonts (Orbitron, Poppins)
 - Font Awesome Icons
 
